@@ -1,0 +1,43 @@
+{
+    "list": [{
+      "id": 0,
+      "titles": "Diuna",
+      "gatunek":"Science fiction",
+      "czas":"183 min.",
+      "premiera":"22 paź 2021",
+      "reżyseria":"Denis Villeneuve"
+    },
+      {
+        "id": 1,
+        "titles": "Venom 2",
+        "gatunek":"Science fiction",
+        "czas":"97 min.",
+        "premiera":"15 paź 2021",
+        "reżyseria":"Andy Serkis"
+      },
+      {
+        "id": 2,
+        "titles": "Eternals",
+        "gatunek":"Science fiction",
+        "czas":"156 min.",
+        "premiera":"5 lis 2021",
+        "reżyseria":"Chloe Zhao"
+      },
+      {
+        "id": 3,
+        "titles": "Legion samobójców: The suicide squad",
+        "gatunek":"Science fiction",
+        "czas":"132 min.",
+        "premiera":"6 sie 2021",
+        "reżyseria":"James Gunn"
+      },
+      {
+        "id": 4,
+        "titles": "Sweet",
+        "gatunek":"Akcja",
+        "czas":"110 min.",
+        "premiera":"20 sie 2021",
+        "reżyseria":"Brian Mendoza"
+      }
+      ]
+  }
